@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\menu_scheduler_menu.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\menu\\scheduler_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_family_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_calendar.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_friends.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\font_mandali.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\font\\mandali.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_note_update.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_note_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_layout_schedule_single.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\layout_schedule_single.xml"
+    },
+    {
+        "merged": "com.example.tp6ex3.app-merged_res-35:/layout_fragment_login.xml.flat",
+        "source": "com.example.tp6ex3.app-main-37:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_productivity.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\productivity.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_bg.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_team_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_layout_note_single.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\layout_note_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_me_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_layout_custom_dialog_cgpa.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\layout_custom_dialog_cgpa.xml"
+    },
+    {
+        "merged": "com.example.tp6ex3.app-merged_res-35:/layout_fragment_register.xml.flat",
+        "source": "com.example.tp6ex3.app-main-37:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_bg.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_me_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-hdpi_noteit.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-hdpi\\noteit.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_me_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_calendar.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_friends.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_ic_add.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_new_schedule.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_new_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_layout.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_family_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_lovely_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_lovely_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_team_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_me_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_shape_round.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\shape_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_create_note.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_team_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_scheduler.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_scheduler.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_bg.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_family_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_lovely_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_schedule_update.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_schedule_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_friends.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\font\\aldrich.xml"
+    },
+    {
+        "merged": "com.example.tp6ex3.app-merged_res-35:/drawable_notebook.png.flat",
+        "source": "com.example.tp6ex3.app-main-37:/drawable/notebook.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_note.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\note.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_bg.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\layout_activity_notes.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_team_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_team_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_friends.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_friends.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_lovely_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xhdpi_lovely_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xhdpi\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-mdpi_calendar.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-mdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_me_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-hdpi_family_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-hdpi\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_schedule.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_calendar.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "com.example.tp6ex3.app-merged_res-35:/drawable_productiv.png.flat",
+        "source": "com.example.tp6ex3.app-main-37:/drawable/productiv.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_btn_shape.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxxhdpi_calendar.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable_calc_btn.xml.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable\\calc_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\drawable-xxhdpi_family_time.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\drawable-xxhdpi\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dalym\\OneDrive\\Documents\\GitHub\\IsetComians\\.gradle\\daemon\\8.0\\com.example.tp6ex3.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

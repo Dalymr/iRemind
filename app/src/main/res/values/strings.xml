@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iRemind</string>
+    <string name="scheduler">iSchedule</string>
+    <string name="notes">iNotes</string>
+    <string name="subject">Subject</string>
+    <string name="ok">Ok</string>
+    <string name="save">Save</string>
+    <string name="note">Note</string>
+    <string name="logging_in">Logging in</string>
+    <string name="login">Login</string>>
+</resources>

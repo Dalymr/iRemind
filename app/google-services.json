@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281087706867",
+    "project_id": "iremind-7d232",
+    "storage_bucket": "iremind-7d232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281087706867:android:fc1e1fe000794ac6169986",
+        "android_client_info": {
+          "package_name": "com.example.tp6ex3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQ86uAyRU043LcpWt2vieXKURplRs3jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
